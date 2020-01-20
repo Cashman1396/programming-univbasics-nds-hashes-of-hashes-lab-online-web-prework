@@ -31,6 +31,6 @@
 # }
 
 def naming_system
- 
+ label:
 
 end
