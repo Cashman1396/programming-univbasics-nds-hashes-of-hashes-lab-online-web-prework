@@ -31,6 +31,7 @@
 # }
 
 def naming_system
- label:"Kingdom"
+ label:"Kingdom", 
+ sub_category = {}
 
 end
